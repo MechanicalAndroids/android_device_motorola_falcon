@@ -1,7 +1,7 @@
 [
     {
         "remote":      "github",
-        "repository":  "AOSPA-L/android_device_motorola_msm8226-common",
+        "repository":  "MechanicalAndroids/android_device_motorola_msm8226-common",
         "target_path": "device/motorola/msm8226-common",
         "revision":    "lollipop-mr1"
     },
@@ -9,12 +9,6 @@
         "remote":      "github",
         "repository":  "CyanogenMod/android_device_qcom_common",
         "target_path": "device/qcom/common",
-        "revision":    "cm-12.1"
-    },
-    {
-        "remote":      "github",
-        "repository":  "CyanogenMod/android_kernel_motorola_msm8226",
-        "target_path": "kernel/motorola/msm8226",
         "revision":    "cm-12.1"
     },
     {
